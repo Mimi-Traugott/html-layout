@@ -3,7 +3,6 @@ body, div{
     padding: 0;
     font-size: 0;
 }
-
 .header {
     width: 100%;
     height: 15vh;
@@ -13,12 +12,14 @@ body, div{
     height: 85vh;
     width: 100vw;
 }
+.column {
+    height: 100%;
+    display: inline-block;
+}
 
 .center-column {
     width: 60%;
-    height: 100%;
     background: #2196f3;
-    display: inline-block;
 }
 .dummy {
     background: palevioletred;
@@ -26,9 +27,8 @@ body, div{
 }
 .side-column{
     width: 20%;
-    height: 100%;
     background: black;
-    display: inline-block;
+   
 }
 
 .footer {
