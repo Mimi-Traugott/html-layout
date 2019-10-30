@@ -12,9 +12,7 @@ body{
 .box {
     height: 95%;
     width: 80px;
-    background: rgb(92,142,220);
-
-
+    background: rgb(77,142,226);
 }
 
 .paragraph {
@@ -32,25 +30,25 @@ body{
 }
 
 .linethree {
-    background: rgb(92,142,220);
+    background: rgb(77,142,226);
     height:15vh;
     width: 100%
 }
 
 .linefour {
-    background: rgb(124,223, 195);
+    background: rgb(82,228,194);
     height: 15vh;
     width:100%;
 }
 
 .linefive{
-    background: rgb(194,231,145);
+    background: rgb(184,234,134);
     height: 15vh;
     width: 100%;
 }
 
 .linesix {
-    background: rgb(245,232,82);
+    background: rgb(247,233,28);
     height: 15vh;
     width: 100%
 }
