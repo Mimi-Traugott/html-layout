@@ -1,0 +1,56 @@
+body{
+    margin:0;
+}
+.header {
+    background: rgb(216, 216, 216);
+    height: 10vh;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.box {
+    height: 95%;
+    width: 80px;
+    background: rgb(92,142,220);
+
+
+}
+
+.paragraph {
+    background: rgb(255,255,255);
+    height: 30vh;
+    width:100%;
+}
+.text-paragraph{
+    text-align: center;
+    display: inline-block;
+    justify-content: left;
+    padding: 70px 70px 70px 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22pt;
+}
+
+.linethree {
+    background: rgb(92,142,220);
+    height:15vh;
+    width: 100%
+}
+
+.linefour {
+    background: rgb(124,223, 195);
+    height: 15vh;
+    width:100%;
+}
+
+.linefive{
+    background: rgb(194,231,145);
+    height: 15vh;
+    width: 100%;
+}
+
+.linesix {
+    background: rgb(245,232,82);
+    height: 15vh;
+    width: 100%
+}
